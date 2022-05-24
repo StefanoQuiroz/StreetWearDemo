@@ -6,23 +6,6 @@ Proyecto realizado por Joaquín Maúrtua y Stefano Quiroz, trata de un ecommerce
 
 <p align="center">
 
-<img src='https://github.com/StefanoQuiroz/NetflixCloneReact/blob/main/gif/netflix.gif' width='700px'>
-
-</p>
-
-# Instrucciones
-
-```sh
-1. git clone https://github.com/StefanoQuiroz/NetflixCloneReact.git
-2. cd netflix-clone
-3. npm i
-4. npm run start
-```
-
-# Link
-
-<p align="left">
-
-https://netflix-clone-64280.web.app/
+<img src='https://github.com/StefanoQuiroz/StreetWearDemo/blob/main/video/SWV0.mp4' width='700px'>
 
 </p>
