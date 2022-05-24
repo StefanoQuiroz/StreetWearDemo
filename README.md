@@ -6,6 +6,6 @@ Proyecto realizado por Joaquín Maúrtua y Stefano Quiroz, trata de un ecommerce
 
 <p align="center">
 
-<img src='https://github.com/StefanoQuiroz/StreetWearDemo/blob/main/video/SWV0.mp4' width='700px'>
+<img src='https://github.com/StefanoQuiroz/StreetWearDemo/blob/main/video/SWV0.gif' width='700px'>
 
 </p>
